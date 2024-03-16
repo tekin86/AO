@@ -66,7 +66,7 @@ aos
 # Beni izle.
 
 # Matrixe Mesaj Yollamayi Ogrenmek:
-Morpheus = "sOQYMwbbTr5MlPwp-KUmbXgCCvfoVjgTOBuUDQJZAIU"
+Morpheus = "46csmSy9ei9erHcRxRELGB22hzOlvDT6FHMqisAE7M4"
 # Bu komutla Morpheusu tanımlıyorsun Neo.
 
 # Bu komutu girdiğinde
