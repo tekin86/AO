@@ -71,7 +71,7 @@ Morpheus = "46csmSy9ei9erHcRxRELGB22hzOlvDT6FHMqisAE7M4"
 
 # Bu komutu girdiğinde
 Morpheus
-# sOQYMwbbTr5MlPwp-KUmbXgCCvfoVjgTOBuUDQJZAIU Sonucunu alman lazım.
+# 46csmSy9ei9erHcRxRELGB22hzOlvDT6FHMqisAE7M4 Sonucunu alman lazım.
 # Bu benim hakkımda bir şifre.
 
 # bu komutu girdiğinde
